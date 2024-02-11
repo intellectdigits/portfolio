@@ -198,7 +198,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "CourseWare",
+    name: "Edukis",
     description:
       "Web-based platform for Managing & Subscribing to Online Courses and Live Class  .",
     tags: [
@@ -216,12 +216,13 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/intellectdigits/Edukias",
+     Demo_code_link: "https://edukis.onrender.com",
   },
   {
-    name: "Job IT",
+    name: "StockApp",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Stock Inventory & Sales Management Web Application",
     tags: [
       {
         name: "react",
@@ -237,19 +238,20 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/intellectdigits/inventory",
+      Demo_code_link: "https://stockapp-yttk.onrender.com",
   },
   {
-    name: "Trip Guide",
+    name: "AlutaGram",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Photo Sharing Social Media App for university Student to share their best moments and good memories in school",
     tags: [
       {
-        name: "nextjs",
+        name: "reacts",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Sanity.io",
         color: "green-text-gradient",
       },
       {
@@ -258,7 +260,8 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/intellectdigits/AlutaGram",
+    Demo_code_link: "https://alutagram.onrender.com",
   },
 ];
 
