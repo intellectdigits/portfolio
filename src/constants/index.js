@@ -176,7 +176,7 @@ const testimonials = [
     name: "Okechukwu Nwamadi",
     designation: "CEO",
     company: "NWA ENTERPRISE",
-    image: "http://localhost:5173/okay.png",
+    image: "https://portfolio-6hwz.onrender.com/okay.png",
   },
   {
     testimonial:
@@ -184,7 +184,7 @@ const testimonials = [
     name: "Amarachi Christainer",
     designation: "Data Science",
     company: "FHI",
-    image: "http://localhost:5173/ami.png",
+    image: "https://portfolio-6hwz.onrender.com/ami.png",
   },
   {
     testimonial:
@@ -192,7 +192,7 @@ const testimonials = [
     name: "Udeme Cletus",
     designation: "CTO",
     company: "456 Enterprises",
-    image: "http://localhost:5173/uka.png",
+    image: "https://portfolio-6hwz.onrender.com/uka.png",
   },
 ];
 
