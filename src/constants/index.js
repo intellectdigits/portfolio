@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Victor proved me wrong.",
     name: "Okechukwu Nwamadi",
     designation: "CEO",
     company: "NWA ENTERPRISE",
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Victor does.",
     name: "Amarachi Christainer",
     designation: "Data Science",
     company: "FHI",
@@ -188,7 +188,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Victor optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Udeme Cletus",
     designation: "CTO",
     company: "456 Enterprises",
